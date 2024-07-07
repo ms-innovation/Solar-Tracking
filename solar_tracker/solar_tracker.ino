@@ -67,7 +67,7 @@ void loop() {
     digitalWrite(ma1,HIGH);
     delay(1450);
     a=0;
-   
+        
   }
 
   else{
